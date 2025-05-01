@@ -1,0 +1,9 @@
+# Ignorar arquivos e pastas geradas automaticamente
+build_dist/
+build_temp/
+build_spec/
+*.exe
+*.pyc
+__pycache__/
+.venv/
+venv/
